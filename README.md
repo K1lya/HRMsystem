@@ -2,7 +2,7 @@
 
 # For install
 
-npm i 
+npm i in server\client folder
 
 create .env with this code:
 
